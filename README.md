@@ -1,4 +1,3 @@
-hello
 # SCST1133 Exercises
 
 Name: TEO ERN HAN 
